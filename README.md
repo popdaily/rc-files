@@ -5,7 +5,7 @@
 At your home directory run
 
 ```
-curl https://raw.githubusercontent.com/joeangel/rc-files/master/setup.sh | bash
+curl https://raw.githubusercontent.com/popdaily/rc-files/master/setup.sh | bash
 ```
 
 Your origin rc-files will move to rc_backup
@@ -33,7 +33,7 @@ in vim, run:
 At your home directory run
 
 ```
-curl https://raw.githubusercontent.com/joeangel/rc-files/master/setup_ubuntu.sh | bash
+curl https://raw.githubusercontent.com/popdaily/rc-files/master/setup_ubuntu.sh | bash
 ```
 
 Your origin rc-files will move to rc_backup.
@@ -41,7 +41,7 @@ Your origin rc-files will move to rc_backup.
 ### Install nvm
 
 ```
-curl https://raw.githubusercontent.com/joeangel/rc-files/master/install_nvm_ubuntu.sh | bash
+curl https://raw.githubusercontent.com/popdaily/rc-files/master/install_nvm_ubuntu.sh | bash
 ```
 
 ## Ubuntu for aws
@@ -50,7 +50,7 @@ curl https://raw.githubusercontent.com/joeangel/rc-files/master/install_nvm_ubun
 At your home directory run
 
 ```
-curl https://raw.githubusercontent.com/joeangel/rc-files/master/setup_aws_ubuntu.sh | bash
+curl https://raw.githubusercontent.com/popdaily/rc-files/master/setup_aws_ubuntu.sh | bash
 ```
 
 ## LANG
